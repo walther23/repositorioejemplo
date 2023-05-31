@@ -1,5 +1,17 @@
 html{
     background-color: black;
     color: white;
+    font-family: sans-serif;
+    text-align: center;
 
+
+}
+a{
+color: green;
+}
+a:hover{
+    color: greenyellow;
+}
+img{
+    max-width: 100%;
 }
